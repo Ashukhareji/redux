@@ -1,0 +1,11 @@
+/* Add styles for the buttons in the Actions column */
+.ag-cell {
+    display: flex; /* Make the cell content flex to align items horizontally */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+  }
+  
+  .ag-cell .action-buttons button {
+    margin-right: 8px; /* Add some margin between the buttons */
+  }
+  

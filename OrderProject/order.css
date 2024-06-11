@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(78, 173, 129);
+}
+
+div{
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 20px;
+}

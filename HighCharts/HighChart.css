@@ -1,0 +1,12 @@
+#container {
+  height: 400px;
+  min-width: 320px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+input{
+  border-radius: 20px;
+}
+button{
+  border-radius: 20px;
+}
