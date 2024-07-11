@@ -1,0 +1,16 @@
+@media (max-width: 800px) {
+  div {
+    display: flex;
+    flex-direction: column;
+
+  }
+}
+
+.Product {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  background-color: beige;
+  height: 400px;
+  align-items: center;
+}

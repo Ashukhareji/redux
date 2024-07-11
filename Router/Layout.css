@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .Navbar {
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px; 
+  }
+  
+  .Navbar ul {
+    list-style-type: none; 
+    display: flex; 
+  }
+  
+  .Navbar ul li {
+    margin-right: 20px;
+  }
+  
+  .Navbar ul li a {
+    color: #fff; 
+    text-decoration: none; 
+    font-weight: bold; 
+  }
+  
+  .Navbar ul li a:hover {
+    text-decoration: underline; 
+  }
+  
+  

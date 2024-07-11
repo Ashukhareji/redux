@@ -1,0 +1,17 @@
+
+.App{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(78, 70, 114);
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: larger;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
